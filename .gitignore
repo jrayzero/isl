@@ -1,0 +1,9 @@
+.libs
+.deps
+autom4te.cache/requests
+config.*
+*.o
+*.Po
+*.in
+*.lo
+libtool
